@@ -1,6 +1,6 @@
 # 📁 File Metadata Microservice
 
-This project is part of the [freeCodeCamp Back End Development and APIs Certification](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice).
+My solution for the [File Metadata Microservice project on freeCodeCamp](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice).
 
 ## 📌 Overview
 
